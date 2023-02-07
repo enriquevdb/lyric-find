@@ -1,7 +1,7 @@
 const optionsgenius = {
     method: 'GET',
     headers: {
-      'X-RapidAPI-Key': '5b1bd445ffmshc6724e9046ad8d8p11feb6jsn1be89ea91415',
+      'X-RapidAPI-Key': '',
       'X-RapidAPI-Host': 'genius-song-lyrics1.p.rapidapi.com'
     }
   };
